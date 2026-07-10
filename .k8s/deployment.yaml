@@ -1,3 +1,9 @@
+apiVersion: v1
+kind: Namespace
+metadata:
+  name: eshoponweb-User006
+
+---
 apiVersion: apps/v1
 kind: Deployment
 metadata:
